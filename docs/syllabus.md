@@ -2,33 +2,39 @@
 title: Course Info 
 ---
 
-### Latin American History at the HORROR Movies
+## Introduction to Early Latin America
 
-HILA/LAC 370   
-TR   9:45-11:00
-HSS 107   
+HILA 255/LAC 251
+TR   8:00-9:15a
+HSS 123
 Fall 2024  
 
-**Prof. Chad Black**
-
+**Prof. Chad Black**  
 **Email:** cblack6-at-utk.edu   
 **Office:**  
 **Office Hours:** Tuesday, 1:30-3:30, or by appointment.
 
-> "If you want to understand a place, ignore the boastful monuments and landmarks, and go straight to the haunted houses."
-> 
-> - Colin Dickey, *Ghostland*
+**TA Info:**  
 
 
-### About
+# About
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zTGF_M3KRXI?si=vpNdru4naAsqAsLi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="620" height="315" src="https://www.youtube.com/embed/BD__KLCCGpo?si=hZecQrf179Oj8KvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The history of film in Latin America is almost as long as the history of film. Already in 1896, representatives of the Lumiére brothers made and projected films for Mexican President Porfirio Diáz in Chapultec Castle! As moving picture technology spread throughout the world, it radically altered how individual and groups in society perceived themselves, and how they were represented by others. Film (and later television) has been a source of enjoyment, a powerful propaganda tool, a medium of artistic express, a driving force of national identity, and a medium for scary stories.
+In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered or civilized the Americas. Sixty years later, in 1552, López de Gómara, the private secretary of Hernán Cortes, wrote, “The greatest event since the creation of the world (excluding the incarnation and death of Him who created it) is the discovery of the Indies [i.e. Americas].” He was, himself, a participant the conquest of Mexico. From the very beginning, not only the magnitude, but also the meaning of the Conquest of the Americas has been a point of controversy and acclaim. The history of Early Latin America, however, does not begin in October 1492. Indigenous bands and great civilizations inhabited North and South America for more than ten thousand years prior to the arrival of Europeans on the shores of Caribbean islands. Thus, in this class we will concentrate on the pre-Colombian period, the conquest period, and the ensuing three hundred years of Spanish (and to a limited extent) Portuguese rule. The lectures will move both chronologically and topically. We will concentrate on two key geographic areas of examination— central Mexico, home to the highly structured pre-Columbian societies of the Maya and the Mexica, among many others, and later the center of Spanish control in its northern kingdoms as the Viceroyalty of New Spain; and, the central Andes, land of the Inca Empire and its subject polities (among others), and home of the Viceroyalty of Peru, the center of Spanish power in its southern kingdoms. Our class will cover a tremendous breadth of time and territory, and as such the lectures, readings, and discussion sections are designed to draw your critical attention to issues, including ethnicity, gender, slavery, culture, and power, as well as the institutions and structures that patterned native, African, and European experiences of Spanish and Portuguese imperialism.
 
-In this class, we will use horror films, fiction, and historical sources as an introduction to the history and theory of monsters and monstrosity in modern Latin America. In recent years, filmmakers from Mexico, Guatemala, Chile, and Argentina (among others) have used the genre of horror to explore the pressing weight of history on society, through issues such as violence, gender, dictatorship, inequality, and capitalism. In this class, we will interrogate these works historically, not to become exports on horror, but to see how horror and horror criticism provide a method for studying Latin America. 
+# course objectives
 
-Most films will be in Spanish with English subtitles. The majority of these films are rated R for strong language, violence, and/or sexual content. These topics (sex and violence) convey the realities of contemporary and historical struggles in the region. In class, we will discuss at length themes in the films that go beyond the casual viewer's interpretations. If, however, you feel uncomfortable with these topics, please come speak to me.
+1. To introduce students to the forces, events, and conflicts that defined the process of conquest and colonization of the Americas, including:
+    - The histories and cultures of pre-conquest state systems, particularly in central Mexico and the Andes.
+    - The historical precedents for Spanish and Portuguese expansion and conquest.
+    - The process of conquest and colonization from the perspectives of Iberian, African, and indigenous populations.
+    - The fundamental forms of institutional and cultural organization that structured daily life during the three centuries of Spanish rule.
+    - The tensions of late colonial society that let to conflict, disorder, and eventually rebellion.
+2. To understand and use a variety of sources that provide the core of historical inquiry.
+    
+3. To be able to identify, understand, and critique historical argument.
+    - Historians follow a lose set of epistemological, theoretical, and evidentiary rules in their attempts to recreate the limited past that is accessible to us through our incomplete archival record. At the college level and beyond, it is your task to learn how to identify an author’s central argument and to evaluate it based on its evidence, sources, logic, and narrative.
 
 ### Course Requirements
 
@@ -50,7 +56,7 @@ Students are required to engage in this class. Learning is an interactive proces
 
 **Accommodations:** Qualified students with disabilities needing appropriate academic adjustments should contact me as soon as possible to ensure that your needs are met in a timely manner with appropriate documentation.
 
-**Attendance:** Attendance at all class sessions is mandatory. If you will not be able to attend class, please contact me ahead of time.
+**Attendance:** Attendance at all class sessions is mandatory.  If you cannot attend, please email Dr. Black or your TA ahead of time. 
 
 **Deadlines:** Assignments must be turned in by the end of class on the day they are due, unless otherwise arranged by the professor. Late papers will not be accepted without **prior arrangement**, for any reason. This includes technology problems.
 
@@ -58,6 +64,6 @@ Students are required to engage in this class. Learning is an interactive proces
 
 **Plagiarism and Academic Honesty:** Plagiarism occurs when someone knowingly or unknowingly presents the words or ideas of another person, chatbot, or large language model as his or her own. Any work turned in for this class must meet University standards for academic honesty. Any students unsure about how to apply these rules are urged to consult with me prior to turning in any written work.
 
-**Drop In Office Hours:** Students are strongly encouraged to speak with me outside of class. The advantages of talking with me include: extra help on an assignment or preparation for an exam; clarification of materials covered in lecture, discussion of my comments on your work; discussion of this or related courses. I am available during office hours on a first-come, first-served basis; if you cannot come by during office hours, please contact me via email or phone and I will be happy to set up an appointment with you.
+**Drop In Office Hours:** Students are strongly encouraged to speak with me and the TAs outside of class. The advantages include: extra help on an assignment or preparation for an exam; clarification of materials covered in lecture, discussion of my comments on your work; discussion of this or related courses. We are available during office hours on a first-come, first-served basis; if you cannot come by during office hours, please contact me via email or phone and I will be happy to set up an appointment with you.
 
 **Changes:** I reserve the write to change this syllabus as the semester progresses. This is not a contract, but rather a document to guide expectations and clearly communicate weekly assignments. Please bring the syllabus with you to our class meetings. Or, keep up with it on the course website.
