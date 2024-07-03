@@ -3,7 +3,7 @@ title: Calendar
 ---
 # calendar
 
-1. [[#Week One Introduction (Aug 20-22)]]
+1. [[#Week One Introduction and Premodern I (Aug 20-Aug 22)]]
 2. [[#Week Two Premodern Societies II (Aug 27- Aug 29)]]
 3. [[#Week Three Premodern Societies II (Sep 3-Sep 5)]]
 4. [[#Week Four Premodern Societies III (Sep 10-Sep 12)]]
@@ -20,7 +20,7 @@ title: Calendar
 15. [[#Week Fifteen Thanksgiving (Nov 29-Dec 1)]]
 16. [[#Week Sixteen New World Orders (Dec 3)]]
 
-## Week One: Introduction and Premodern I (Aug 20-22)
+## Week One: Introduction and Premodern I (Aug 20-Aug 22)
 
 Welcome (back) to the History of Early Latin America. This week, your only responsibility is to carefully read over the syllabus, the course requirements, and to plan for you participation in class! Make sure you understand what the coursework requirements are, and also some general recommendations on how to read, take notes, and think about weekly material.
 
