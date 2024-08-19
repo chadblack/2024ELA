@@ -12,7 +12,7 @@ All other required readings are available on Canvas.
 
 # in-class writing (30%)[¶](https://chadblack.net/2023MLA/assignments/#in-class-writing-30 "Permanent link")
 
-Occasionally, at the end of class, you will be asked to write a short paragraph on the day’s or week’s readings.  You get two free misses for any reason whatsoever. But this also means that any misses over two will count regardless of excuses. In other words, don’t do what some have in the past: skip two classes and then get sick for a third, because that third miss will count. You may use one page of handwritten notes for in-class writing. For more on how to take notes while reading, see [[255_ELA/2024ELA/docs/resources/an approach to making notes|an approach to making notes]].
+Occasionally, at the end of class, you will be asked to write a short paragraph on the day’s or week’s readings.  You get two free misses for any reason whatsoever. But this also means that any misses over two will count regardless of excuses. In other words, don’t do what some have in the past: skip two classes and then get sick for a third, because that third miss will count. You may use one page of handwritten notes for in-class writing. For more on how to take notes while reading, see [an approach to making notes](https://chadblack.net/2024ELA/resources/an%20approach%20to%20making%20notes/).
 
 # in-class exams (25% each)[¶](https://chadblack.net/2023MLA/assignments/#in-class-exams-20-each "Permanent link")
 
