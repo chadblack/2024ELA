@@ -233,4 +233,6 @@ Safe travels. See your peoples. I’ll only add something this week for outside 
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
 
-**FINAL EXAM:** Date to be determined by university schedule.
+**FINAL EXAM:** 
+
+WEDNESDAY, DECEMBER 11 from 8:00a-10:15a.
