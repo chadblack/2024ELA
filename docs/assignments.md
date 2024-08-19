@@ -22,6 +22,6 @@ There will be two exams- a midterm and final.
 
 We have two feature length film options this semester, [_La Otra Conquista_](https://www.imdb.com/title/tt0175996/) and [_Zama_](https://www.imdb.com/title/tt3409848/). Students must write a 3-5 page analysis on one of these films, the first which treats the question of the spiritual conquest of Nahuatl civilization, and second of which treats the vanity, ambition, and capriciousness of late colonial rule.
 
-Instructions for the _La Otra Conquista_ version of this assignment: [[255_ELA/2024ELA/docs/resources/La otra conquista|La otra conquista]].
+Instructions for the _La Otra Conquista_ version of this assignment: [[docs/resources/La otra conquista|La otra conquista]]
 
-For instructions for the Zama version of the assignment: [[255_ELA/2024ELA/docs/resources/Zama|Zama]].
+For instructions for the Zama version of the assignment: [[docs/resources/Zama|Zama]].
