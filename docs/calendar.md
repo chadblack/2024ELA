@@ -14,7 +14,7 @@ title: Calendar
 9. [[#Week Nine Captivity and Enslavements (Oct 15-Oct 17)]]
 10. [[#Week Ten Native Labor and Accumulation (Oct 22-Oct 24)]]
 11. [[#Week Eleven Love, Hate, and Social Reproduction (Oct 29-Oct 31)]]
-12. [[#Week Twelve Disruption and Reform (Nov 5-Nov 7)]]
+12. [[#Week Twelve Film Review (Nov 5-Nov 7)]]
 13. [[#Week Thirteen Rebellion and Reaction (Nov 12-Nov 14)]]
 14. [[#Week Fourteen Independence (Nov 19-Nov 21)]]
 15. [[#Week Fifteen Thanksgiving (Nov 29-Dec 1)]]
@@ -40,7 +40,7 @@ Your most fundamental skill for this semester will be creatively connecting the 
 
 **Thursday: On Sedentary Societies**
 
-- Townsend, _Fifth Sun_, pp. 1-32
+- Kojin Karatani, *Structure of World History*,  5-10, 35-49.
 ## Week Two: Premodern Societies II (Aug 27- Aug 29)
 
 The immigrants to what we now call the Americas arrived by land and cruising the coasts. The civilizations that evolved from their wanderings were highly complex and advanced. We begin the semester considering their emergence, and the revolutionary domestication of Zea mays that made it possible. To this day, there is no single crop or animal more central to the US economy and its food system than corn.
@@ -49,7 +49,7 @@ This week we look at commonalities among most premodern societies, and then at t
 
 **Tuesday: The Persistence of Semi-Sedentary Living**
 
-- TBA
+- Townsend, _Fifth Sun_, pp. 1-32.
 
 **Thursday: The Maya**
 
@@ -154,7 +154,7 @@ From its inception, the Spanish and Portuguese colonial projects depended on the
 
 **Tuesday: A Society Built on Slavery**
 
-- Kris Lane, “Captivity and Redemption: Aspects of Slave Life in early Colonial Quito and Popoyan,” The Americas 57.2 (2000), 225-246.
+- [Kris Lane, “Captivity and Redemption: Aspects of Slave Life in early Colonial Quito and Popoyan,” The Americas 57.2 (2000), 225-246.](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_journals_1518334548)
 
 **Thursday: Brazilian Development**
 
@@ -173,7 +173,6 @@ Enslavement was not the only form of coerced labor exploited by Iberian empires.
 
 - Townsend, _Fifth Sun_, pp. 155-208.
 
-
 ## Week Eleven: Love, Hate, and Social Reproduction (Oct 29-Oct 31)
 
 This week, we are focusing on family, sexuality, and social order. The customs and laws of Iberia and the Indies were deeply influential in the ordering (and disordering) of colonial society. The Conquest, and its aftermath, included exploitative and coercive relationships, and even regular marriages had their fair share of conflict between spouses. This week, we consider these things by looking at unnatural sexuality and witchcraft, as a way of also understanding what colonial society understood to be natural.
@@ -186,16 +185,12 @@ This week, we are focusing on family, sexuality, and social order. The customs a
 
 - Ruth Behar, “Sexual Witchcraft, Colonialism, and Women’s Powers,” in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
 
-## Week Twelve: Disruption and Reform (Nov 5-Nov 7)
+## Week Twelve: Film Review (Nov 5-Nov 7)
 
-This week, we look at the early transformations of the colonial relationship after the Spanish War for succession. Consider the reforms posited by José Galvez, and reactions to them that fall short of open rebellion.
 
-**Tuesday: Reacting to Reforms**
+**Tuesday: Election Day, No Class.
 
-- “José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)” in Mills, et. al., Colonial Latin America, pp. 270-273.
-    
-- Pamela Voekel, “Peeing on the Palace: Bodily Resistance to Bourbon Reforms in Mexico City,” Journal of Historical Sociology, Vol. 5 No. 2 (June 1992): 183-208.
-    
+VOTE!
 
 **Thursday: No class.**
 
@@ -209,11 +204,14 @@ By the 1780s, part of the Spanish Empire erupted into open rebellion against the
 
 **Tuesday: Opening the Age of Rebellion**
 
-- TBD
+- “José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)” in Mills, et. al., Colonial Latin America, pp. 270-273.
+    
+- Pamela Voekel, “Peeing on the Palace: Bodily Resistance to Bourbon Reforms in Mexico City,” Journal of Historical Sociology, Vol. 5 No. 2 (June 1992): 183-208.
+    
 
 **Thursday: Monstrous Disorders**
 
-- TBD
+- [Nora E. Jaffary, "Monstrous births and creole patriotism in late colonial Mexico," *The Americas* 68:2 (October 2011): 179-207](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_journals_1518334548)
 
 ## Week Fourteen: Independence (Nov 19-Nov 21)
 
@@ -221,11 +219,11 @@ The crises of the Bourbon reforms never produced independence movements. That wo
 
 **Tuesday: Did Anyone See It Coming?**
 
-- TBD.
+- Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,” Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
 
 **Thursday: On to War**
 
-- Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,” Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
+- John Charles Chasteen, "Independence" in *Born in Fire and Blood*.
 
 ## Week Fifteen: Thanksgiving (Nov 29-Dec 1)
 
