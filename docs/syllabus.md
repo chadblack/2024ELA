@@ -38,36 +38,30 @@ Fall 2024
 
 In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered or civilized the Americas. Sixty years later, in 1552, López de Gómara, the private secretary of Hernán Cortes, wrote, “The greatest event since the creation of the world (excluding the incarnation and death of Him who created it) is the discovery of the Indies [i.e. Americas].” He was, himself, a participant the conquest of Mexico. From the very beginning, not only the magnitude, but also the meaning of the Conquest of the Americas has been a point of controversy and acclaim. The history of Early Latin America, however, does not begin in October 1492. Indigenous bands and great civilizations inhabited North and South America for more than ten thousand years prior to the arrival of Europeans on the shores of Caribbean islands. Thus, in this class we will concentrate on the pre-Colombian period, the conquest period, and the ensuing three hundred years of Spanish (and to a limited extent) Portuguese rule. The lectures will move both chronologically and topically. We will concentrate on two key geographic areas of examination— central Mexico, home to the highly structured pre-Columbian societies of the Maya and the Mexica, among many others, and later the center of Spanish control in its northern kingdoms as the Viceroyalty of New Spain; and, the central Andes, land of the Inca Empire and its subject polities (among others), and home of the Viceroyalty of Peru, the center of Spanish power in its southern kingdoms. Our class will cover a tremendous breadth of time and territory, and as such the lectures, readings, and discussion sections are designed to draw your critical attention to issues, including ethnicity, gender, slavery, culture, and power, as well as the institutions and structures that patterned native, African, and European experiences of Spanish and Portuguese imperialism.
 
-# course objectives
+# Course Objectives
 
 1. To introduce students to the forces, events, and conflicts that defined the process of conquest and colonization of the Americas, including:
+   
     - The histories and cultures of pre-conquest state systems, particularly in central Mexico and the Andes.
     - The historical precedents for Spanish and Portuguese expansion and conquest.
     - The process of conquest and colonization from the perspectives of Iberian, African, and indigenous populations.
     - The fundamental forms of institutional and cultural organization that structured daily life during the three centuries of Spanish rule.
     - The tensions of late colonial society that let to conflict, disorder, and eventually rebellion.
+      
 2. To understand and use a variety of sources that provide the core of historical inquiry.
     
 3. To be able to identify, understand, and critique historical argument.
+   
     - Historians follow a lose set of epistemological, theoretical, and evidentiary rules in their attempts to recreate the limited past that is accessible to us through our incomplete archival record. At the college level and beyond, it is your task to learn how to identify an author’s central argument and to evaluate it based on its evidence, sources, logic, and narrative.
 
-### Course Requirements
+
+# Course Requirements
 
 Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These assignments are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals.
 
-### Course Objectives
 
-1.  To learn to effectively read theoretical and historical texts, and use this information as a basis for media critique.
-2.  To learn to identify the ways that film mediates/represents history in its attempt to visually construct its worlds.
-3. To understand and use a variety of sources that provide the core of historical inquiry.
-    -   Primary written sources, and their particular challenges.
-    -   Secondary sources, and how to read them critically.
-    -   Visual and physical sources of evidence.
-    -   The absence of sources— finding lost voices, and reading against the grain.
-4.  To be able to identify, understand, and critique historical argument.
-    -   Historians follow a lose set of epistemological, theoretical, and evidentiary rules in their attempts to recreate the limited past that is accessible to us through our incomplete archival record. At the college level and beyond, it is your task to learn how to identify an author’s central argument and to evaluate it based on its evidence, sources, logic, and narrative.
 
-### Policies
+# Policies
 
 **Accommodations:** Qualified students with disabilities needing appropriate academic adjustments should contact me as soon as possible to ensure that your needs are met in a timely manner with appropriate documentation.
 
