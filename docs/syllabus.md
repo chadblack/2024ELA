@@ -9,27 +9,27 @@ TR   8:00-9:15a
 HSS 123
 Fall 2024  
 
-**Prof. Chad Black**  
-**Email:** cblack6-at-utk.edu   
-**Office:**  621 SMC
-**Drop-In Hours:** Tuesday, 1:30-3:30, or by appointment.
+**Prof. Chad Black**   
+**Email:** cblack6-at-utk.edu    
+**Office:**  621 SMC   
+**Drop-In Hours:** Tuesday, 1:30-3:30, or by appointment.   
 
 **TA Info:**  
 
-**Ms. Camren Murray**
-**Email:**  cmurra24-at-vols.utk.edu
-**Office:** SMC 602
-**Drop-In Hours:** Thursday, 11:00a-1:00p
+**Ms. Camren Murray**  
+**Email:**  cmurra24-at-vols.utk.edu   
+**Office:** SMC 602   
+**Drop-In Hours:** Thursday, 11:00a-1:00p   
 
-**Ms. Annamaria Haden**
-**Email:**  ahaden1-at-vols.utk.edu
-**Office:** Hoskins 216A
-**Drop-In Hours:** Tuesday, 10:00a-12:00p
+**Ms. Annamaria Haden**   
+**Email:**  ahaden1-at-vols.utk.edu   
+**Office:** Hoskins 216A   
+**Drop-In Hours:** Tuesday, 10:00a-12:00p   
 
-**Mr. Mark Joslin**
-**Email:** jjoslin3-at-vols.utk.edu
-**Office:** SMC 602
-**Drop-In Hours:** Thursday 10:00a-12:00p
+**Mr. Mark Joslin**   
+**Email:** jjoslin3-at-vols.utk.edu   
+**Office:** SMC 602   
+**Drop-In Hours:** Thursday 10:00a-12:00p   
 
 
 # About
