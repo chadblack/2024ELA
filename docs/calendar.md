@@ -211,7 +211,7 @@ By the 1780s, part of the Spanish Empire erupted into open rebellion against the
 
 **Thursday: Monstrous Disorders**
 
-- [Nora E. Jaffary, "Monstrous births and creole patriotism in late colonial Mexico," *The Americas* 68:2 (October 2011): 179-207](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_journals_1518334548)
+- [Nora E. Jaffary, "Monstrous births and creole patriotism in late colonial Mexico," *The Americas* 68:2 (October 2011): 179-207](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_journals_912504734)
 
 ## Week Fourteen: Independence (Nov 19-Nov 21)
 
